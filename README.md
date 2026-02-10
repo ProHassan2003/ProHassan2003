@@ -18,6 +18,15 @@ My focus is: **clean fundamentals + practical projects + GitHub portfolio**.
 - Login/Register + Watchlist + Database
 - HTML/CSS/JS + PHP + MySQL
 
+- ### Bus Ticketing System(https://www.flaticon.com/free-icon/bus_8676875)
+- Sessions
+- Form handling (POST requests)
+- Authentication system
+- CSRF protection
+- Reusable PHP includes
+- HTML CSS PHP DATABASES
+
+  
 ### 📚 Student Projects (Java / C++ / PHP)
 - Console apps, OOP practice, and college assignments
 - Improving code structure and documentation
