@@ -26,22 +26,14 @@ My focus is: **clean fundamentals + practical projects + GitHub portfolio**.
 
 ## Tech Stack & Skills
 **Languages:** Java, PHP, JavaScript, HTML, CSS, C++  
-**Tools:** Git/GitHub, VS Code, MySQL, MAMP/XAMPP, Linux basics
-
----
-
-## Current Goals
-- Build 3–5 strong portfolio projects (Frontend + Backend)
-- Improve Java OOP + backend skills
-- Learn better UI design + responsive layouts
-- Apply for internships in Vilnius
+**Tools:** Git/GitHub, VS Code, MySQL, MAMP/XAMPP, Linux basic
 
 ---
 
 ## Let’s Connect
-- LinkedIn: (add your link)
-- Instagram: (optional)
-- Email: (optional)
+- LinkedIn: (https://www.linkedin.com/in/hassan-jehangir-798827148/)
+- Instagram: (https://www.instagram.com/sherian.873/)
+- Email: (cadethassan2001@gmail.com)
 
 ---
 
@@ -56,8 +48,5 @@ My focus is: **clean fundamentals + practical projects + GitHub portfolio**.
 
 ---
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
-> “Keep shipping. Keep improving.” ✨
+> “Keep shining. Keep improving.” ✨
